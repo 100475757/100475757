@@ -11,7 +11,7 @@
 
 ## 📊 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100475757&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100475757&layout=compact&langs_count=8&theme=white)
 
 
 ⭐ ¡No dudes en revisar mis proyectos y conectar conmigo! 🚀  
