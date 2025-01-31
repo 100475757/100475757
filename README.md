@@ -1,10 +1,9 @@
-# ¡Hola! 👋 Soy [Tu Nombre]  
+# ¡Hola! 👋 Soy Paulo Álvarez 
 
 ## 📌 Sobre mí  
-- 🌟 **Dual Bachelor's degree** en **Ingeniería Informática y ADE**, en [Universidad Carlos III de Madrid](https://www.uc3m.es/)  
-- 🚀 Actualmente cursando el programa **Common Core** en **42 Madrid** tras completar con éxito la Piscine  
+- 🌟 **Doble Grado** en **Ingeniería Informática y ADE**, en [Universidad Carlos III de Madrid](https://www.uc3m.es/)  
 - 🚀 Interesado en impulsar mi carrera tanto en **programación** como en el campo de los **negocios**  
-- 📬 **Cómo contactarme:** [LinkedIn](https://linkedin.com/in/tuusuario)  
+- 📬 **Cómo contactarme:** [LinkedIn](https://linkedin.com/in/paulo-álvarez-da-costa-2436a9294/)  
 
 ## 🛠️ Tecnologías y Habilidades  
 - 💻 **Lenguajes:** Python, Java, C, SQL  
