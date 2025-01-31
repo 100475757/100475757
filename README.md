@@ -6,8 +6,8 @@
 - 📬 **Cómo contactarme:** [LinkedIn](https://linkedin.com/in/paulo-álvarez-da-costa-2436a9294/)
   
 ## 🚀 Proyectos Destacados  
-- 🔐 **[Mi primer proyecto de pentesting](https://github.com/tuusuario/proyecto1)** - Análisis de seguridad en aplicaciones web  
-- 💻 **[Automatización con Python](https://github.com/tuusuario/proyecto2)** - Scripts para escaneo de redes y detección de amenazas
+- 🔐 **[Minishell](https://github.com/100475757/SSOO_P2)** - Gestión de procesos y mandatos en la shell   
+- 💻 **[Página Web Navideña](https://github.com/100475757/IU_P2)** - Web navideña con diversas funcionalidades 
 
 ## 📊 Lenguajes más usados
 
