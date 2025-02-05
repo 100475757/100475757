@@ -7,7 +7,7 @@
   
 ## 🚀 Proyectos Destacados  
 - 🔐 **[Minishell](https://github.com/100475757/SSOO_P2)** - Gestión de procesos y mandatos en la shell   
-- 💻 **[Página Web Navideña](https://github.com/100475757/IU_P2)** - Web navideña con diversas funcionalidades 
+- 💻 **[Página Web Navideña](https://github.com/100475757/IU_P3)** - Web navideña con diversas funcionalidades 
 
 ## 📊 Lenguajes más usados
 
